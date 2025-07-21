@@ -19,6 +19,7 @@ Nettoyage des données : gestion des doublons et des valeurs manquantes. <br/> A
 
 # Box Office par Genre
 Les films d’aventure et de documentaire sont les plus rentables, montrant une forte demande du public pour ces genres.
+<img href="https://github.com/Germode/Projet-de-phase-2/blob/main/Images/t%C3%A9l%C3%A9chargement%20(11).png"/>
 
 # Box Office sur la Durée des Films
 Les films d'une durée de 140 à 150 minutes ont tendance à avoir de meilleures performances au box-office.
