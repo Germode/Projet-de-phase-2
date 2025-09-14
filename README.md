@@ -4,9 +4,7 @@
 
 # Titre du projet
 Box-Office Insights : analyser pour mieux réussir au cinéma
-![Box Office](hhttps://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
-
-
+!['Box Office'](hhttps://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
 
 # Aperçu: <br/>
 Analyser les données cinématographiques pour comprendre comment différents genres et la durée des films influencent les performances au box-office.  Cela permettra de formuler des recommandations sur les types de films à produire.
