@@ -1,9 +1,9 @@
 
 # Projet-de-phase-2 Bootcamp Data Science / Akademi
-<br/> Preparé et presenter par SAINT GERMAIN Emode
+<br/>Titre du projet : Analyse exploratoire du box-office pour un nouveau studio de cinéma
 
-# Titre du projet
-Box-Office Insights : analyser pour mieux réussir au cinéma
+# Sous-titre :
+Identifier les types de films les plus performants pour guider les décisions de production
 !['Box Office'](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
 
 # Aperçu: <br/>
