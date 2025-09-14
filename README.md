@@ -3,7 +3,6 @@
 Box-Office Insights : analyser pour mieux réussir au cinéma
 Prepare et presenter par SAINT GERMAIN Emode
 
-# Introduction
 
 ## Objectif du projet : <br/>
 Analyser les données cinématographiques pour comprendre comment différents genres et la durée des films influencent les performances au box-office.  Cela permettra de formuler des recommandations sur les types de films à produire.
