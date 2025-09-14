@@ -1,9 +1,8 @@
 
 # Projet-de-phase-2 Bootcamp Data Science / Akademi
 Titre du projet : Analyse exploratoire du box-office pour un nouveau studio de cinéma
-Saint Germain Emode – Science de données + IA
-# Sous-titre :
-Identifier les types de films les plus performants pour guider les décisions de production
+<br/> Saint Germain Emode – Science de données + IA
+# Sous-titre :Identifier les types de films les plus performants pour guider les décisions de production
 !['Box Office'](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
 
 # Aperçu: <br/>
