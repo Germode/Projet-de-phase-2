@@ -27,17 +27,14 @@ Le second ensemble, « The Numbers » (format CSV), fournit des données financi
 En combinant ces deux sources, le projet offre une analyse complète reliant la réception du public aux performances financières. Les données ont été soigneusement examinées, nettoyées et fusionnées afin d’assurer leur cohérence et leur fiabilité pour les analyses ultérieures.
 
 --Le projet s’appuie sur deux ensembles de données complémentaires :
-
 1. Base de données IMDB (im.db, format SQLite)
 Cette base contient des métadonnées détaillées sur les films, notamment :
-
 - Titres et années de sortie
 - Genres et durées
 - Notes des utilisateurs et nombre de votes
 Ces informations fournissent une perspective qualitative et permettent de comprendre la réception des films par le public.
 2. Ensemble de données « The Numbers » sur les budgets des films (tm.movie_budgets.csv.gz)
 Cet ensemble fournit des données financières essentielles, telles que :
-
 - Budgets de production
 - Recettes du week-end d’ouverture
 - Chiffre d’affaires brut national et international
