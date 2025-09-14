@@ -7,8 +7,8 @@ Box-Office Insights : analyser pour mieux réussir au cinéma
 !['Box Office'](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
 
 # Aperçu: <br/>
-Analyser les données cinématographiques pour comprendre comment différents genres et la durée des films influencent les performances au box-office.  Cela permettra de formuler des recommandations sur les types de films à produire.
-
+Objectif : Identifier les types de films les plus performants au box-office pour guider les décisions de production du studio.  
+Méthodologie : Analyse exploratoire des données avec visualisations.
 ## Contexte : <br/>
 L'industrie cinématographique est dynamique et influencée par divers facteurs, y compris les genres, la durée des films et les tendances saisonnières. Une analyse approfondie de ces éléments peut aider les studios à maximiser leurs revenus.
 
