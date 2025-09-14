@@ -41,7 +41,7 @@ Cet ensemble fournit des données financières essentielles, telles que :
 - Budgets de production
 - Recettes du week-end d’ouverture
 - Chiffre d’affaires brut national et international
-Ces données offrent une vision quantitative permettant d’évaluer la rentabilité et le succès commercial des films.
+<br/> Ces données offrent une vision quantitative permettant d’évaluer la rentabilité et le succès commercial des films.
 Les deux ensembles ont été soigneusement nettoyés et fusionnés afin d’assurer la cohérence, la fiabilité et la qualité des analyses qui en découlent.
 
 ## Analyse Exploratoire des Données (EDA) :
