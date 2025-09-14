@@ -15,7 +15,7 @@ L’objectif est de transformer ces insights en recommandations concrètes et ex
 Votre entreprise souhaite se lancer dans la production de films, mais elle ne dispose pas encore d’informations sur le marché ni sur les facteurs qui déterminent le succès commercial. Ce projet a pour but d’analyser les tendances actuelles du box-office afin d’aider le studio à prendre des décisions éclairées sur les types de films à produire.
 
 Grâce à l’exploration de données provenant de sources telles qu’IMDB et Box Office Mojo, cette analyse permet de comprendre quels genres, budgets, durées et caractéristiques des films sont associés aux meilleures performances au box-office. L’objectif final est de transformer ces insights en recommandations concrètes et stratégiques pour maximiser le retour sur investissement et le succès critique des futurs films.
-[Top movies](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/top%20movies.jpg)
+![Top movies](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/top%20movies.jpg)
 
 # Méthodologie <br/>
 ## Collecte des Données :
