@@ -1,10 +1,14 @@
 
 # Projet-de-phase-2 Bootcamp Data Science / Akademi
+<br/> Preparé et presenter par SAINT GERMAIN Emode
+
+# Titre du projet
 Box-Office Insights : analyser pour mieux réussir au cinéma
-<br/> Prepare et presenter par SAINT GERMAIN Emode
+!['Box Office par Genre']()
 
 
-## Objectif du projet : <br/>
+
+# Aperçu: <br/>
 Analyser les données cinématographiques pour comprendre comment différents genres et la durée des films influencent les performances au box-office.  Cela permettra de formuler des recommandations sur les types de films à produire.
 
 ## Contexte : <br/>
