@@ -17,10 +17,15 @@ Votre entreprise souhaite se lancer dans la production de films, mais elle ne di
 Grâce à l’exploration de données provenant de sources telles qu’IMDB et Box Office Mojo, cette analyse permet de comprendre quels genres, budgets, durées et caractéristiques des films sont associés aux meilleures performances au box-office. L’objectif final est de transformer ces insights en recommandations concrètes et stratégiques pour maximiser le retour sur investissement et le succès critique des futurs films.
 ![Top movies](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/top%20movies.jpg)
 
-# Méthodologie <br/>
-## Collecte des Données :
-## Utilisation de plusieurs sources de données :
-<br/> Fichiers CSV : Contenant des informations sur les films, incluant les titres, genres, et box-office. <br/> Fichiers SQLite (.db) : Une base de données intégrant des tables sur les films, les acteurs, et les performances au box-office. <br/> Interrogation des Données : <br/> Utilisation de Pandas pour lire les fichiers CSV et effectuer des requêtes SQL sur la base de données SQLite :
+# ompréhension des données:
+<Ce projet s’appuie sur deux principaux ensembles de données qui combinent à la fois les caractéristiques des films et leurs performances financières. L’objectif est de les intégrer et de les analyser afin d’identifier les facteurs déterminants du succès au box-office et de guider les décisions stratégiques d’un nouveau studio de cinéma.
+
+Le premier ensemble, IMDB (au format SQLite), contient des métadonnées détaillées sur les films, telles que les genres, la durée, les notes des utilisateurs et le nombre de votes. Ces informations sont cruciales pour comprendre les préférences du public et repérer les tendances qui favorisent la réussite des films.
+
+Le second ensemble, « The Numbers » (format CSV), fournit des données financières liées à la production cinématographique, notamment les budgets, les recettes du week-end d’ouverture et le total brut national et international. Ces chiffres permettent d’évaluer la rentabilité et le retour sur investissement des films.
+
+En combinant ces deux sources, le projet offre une analyse complète reliant la réception du public aux performances financières. Les données ont été soigneusement examinées, nettoyées et fusionnées afin d’assurer leur cohérence et leur fiabilité pour les analyses ultérieures.
+
 ## Analyse Exploratoire des Données (EDA) :
 Nettoyage des données : gestion des doublons et des valeurs manquantes. <br/> Analyse des performances par genre et durée, en utilisant des méthodes statistiques et des visualisations. <br/> Visualisations : <br/>  Création de graphiques avec Matplotlib et Seaborn pour illustrer les résultats de manière intuitive.
 
