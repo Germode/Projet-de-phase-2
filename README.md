@@ -4,7 +4,7 @@
 
 # Titre du projet
 Box-Office Insights : analyser pour mieux réussir au cinéma
-!['Box Office par Genre']()
+!['Box Office par Genre'](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/arton1196.jpg)
 
 
 
