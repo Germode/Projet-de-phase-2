@@ -7,9 +7,11 @@
 !['Box Office'](https://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
 
 # Aperçu: <br/>
-Objectif : Identifier les types de films les plus performants au box-office pour guider les décisions de production du studio.  
-Méthodologie : Analyse exploratoire des données avec visualisations.
-## Contexte : <br/>
+Ce projet vise à identifier les types de films les plus performants au box-office afin de fournir des recommandations stratégiques pour un nouveau studio de cinéma. En utilisant des données provenant d’IMDB, Box Office Mojo et d’autres sources, nous appliquons une analyse exploratoire des données (EDA) pour découvrir les tendances et relations entre genres, budgets, durées et notes critiques des films.
+
+L’objectif est de transformer ces insights en recommandations concrètes et exploitables, permettant au studio de décider quels films produire pour maximiser le succès commercial. Les visualisations générées rendent les conclusions facilement compréhensibles pour un public non-technique tout en restant rigoureuses pour un lecteur analytique.
+
+# Contexte : <br/>
 L'industrie cinématographique est dynamique et influencée par divers facteurs, y compris les genres, la durée des films et les tendances saisonnières. Une analyse approfondie de ces éléments peut aider les studios à maximiser leurs revenus.
 
 # Méthodologie <br/>
