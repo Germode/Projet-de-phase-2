@@ -12,7 +12,9 @@ Ce projet vise à identifier les types de films les plus performants au box-offi
 L’objectif est de transformer ces insights en recommandations concrètes et exploitables, permettant au studio de décider quels films produire pour maximiser le succès commercial. Les visualisations générées rendent les conclusions facilement compréhensibles pour un public non-technique tout en restant rigoureuses pour un lecteur analytique.
 
 # Contexte : <br/>
-L'industrie cinématographique est dynamique et influencée par divers facteurs, y compris les genres, la durée des films et les tendances saisonnières. Une analyse approfondie de ces éléments peut aider les studios à maximiser leurs revenus.
+Votre entreprise souhaite se lancer dans la production de films, mais elle ne dispose pas encore d’informations sur le marché ni sur les facteurs qui déterminent le succès commercial. Ce projet a pour but d’analyser les tendances actuelles du box-office afin d’aider le studio à prendre des décisions éclairées sur les types de films à produire.
+
+Grâce à l’exploration de données provenant de sources telles qu’IMDB et Box Office Mojo, cette analyse permet de comprendre quels genres, budgets, durées et caractéristiques des films sont associés aux meilleures performances au box-office. L’objectif final est de transformer ces insights en recommandations concrètes et stratégiques pour maximiser le retour sur investissement et le succès critique des futurs films.
 
 # Méthodologie <br/>
 ## Collecte des Données :
