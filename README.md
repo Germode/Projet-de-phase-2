@@ -4,7 +4,7 @@
 
 # Titre du projet
 Box-Office Insights : analyser pour mieux réussir au cinéma
-!['Box Office'](hhttps://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
+![Box Office](hhttps://github.com/Germode/Projet-de-phase-2/blob/main/Images/Box%20office.png)
 
 
 
