@@ -1,5 +1,5 @@
 
-# Projet-de-phase-2
+# Projet-de-phase-2 Bootcamp Data Science / Akademi
 Box-Office Insights : analyser pour mieux réussir au cinéma
 Prepare et presenter par SAINT GERMAIN Emode
 
