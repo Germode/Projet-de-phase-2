@@ -25,8 +25,8 @@ Le premier ensemble, IMDB (au format SQLite), contient des métadonnées détail
 Le second ensemble, « The Numbers » (format CSV), fournit des données financières liées à la production cinématographique, notamment les budgets, les recettes du week-end d’ouverture et le total brut national et international. Ces chiffres permettent d’évaluer la rentabilité et le retour sur investissement des films.
 
 En combinant ces deux sources, le projet offre une analyse complète reliant la réception du public aux performances financières. Les données ont été soigneusement examinées, nettoyées et fusionnées afin d’assurer leur cohérence et leur fiabilité pour les analyses ultérieures.
-
---Le projet s’appuie sur deux ensembles de données complémentaires :
+# Données
+Le projet s’appuie sur deux ensembles de données complémentaires :
 1. Base de données IMDB (im.db, format SQLite)
 Cette base contient des métadonnées détaillées sur les films, notamment :
 - Titres et années de sortie
